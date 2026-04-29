@@ -1,7 +1,7 @@
 {
+    "debug.hideSlowPreLaunchWarning": true,
+    "debug.showInStatusBar": "never",
     "clangd.arguments": [
         "--compile-commands-dir=/Users/tyrese/uni/tyrese-ITS-BRD-VSC-1/Programs/A2/out/A2ASM/ITSboard_Assembly/Debug"
-    ],
-    "debug.hideSlowPreLaunchWarning": true,
-    "debug.showInStatusBar": "never"
+    ]
 }
