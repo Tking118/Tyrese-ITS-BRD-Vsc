@@ -36,6 +36,7 @@ main
 ;* const in var
     mov     R5,#ConstByteA  ; Anw07
     strh    R5,[R0]         ; Anw08
+    ldr     R0,=VariableC
     ldrb    R6,[R0]
     ldrb    R7,[R0,#1]
     lsl     R6,#8

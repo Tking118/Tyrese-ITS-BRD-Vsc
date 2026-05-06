@@ -1,0 +1,7 @@
+{
+    "debug.hideSlowPreLaunchWarning": true,
+    "debug.showInStatusBar": "never",
+    "clangd.arguments": [
+        "--compile-commands-dir=/Users/tyrese/Library/Mobile Documents/com~apple~CloudDocs/uni/tyrese-ITS-BRD-VSC-1/Programs/A3/out/A3ASM/ITSboard_Assembly/Debug"
+    ]
+}

@@ -11,7 +11,7 @@ solution:
 
   # List different hardware targets that are used to deploy the solution.
   target-types:
-    - type: ITSboard
+    - type: ITSboard_Assembly
       board: STMicroelectronics::NUCLEO-F429ZI:Rev.B
       device: STMicroelectronics::STM32F429ZITx
 
@@ -27,4 +27,4 @@ solution:
 
   # List related projects.
   projects:
-    - project: First.cproject.yml
+    - project: A3ASM.cproject.yml
